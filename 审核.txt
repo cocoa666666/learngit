@@ -1,0 +1,27 @@
+- What user information is your app collecting using VPN?
+Sorry, some information on our app is not clearly described. This application is used together with our company's security gateway hardware products (VPN-like network equipment). This application mainly provides users with the ability to safely access the intranet, so one of the core capabilities of this application is to use VPN to penetrate into the intranet. To enable employees to easily access intranet resources in any place, this application does not collect user information by using VPN capabilities, but only provides VPN penetration capabilities.
+
+- For what purposes are you collecting this information? Please provide a complete and clear explanation of all planned uses of this data.
+This application does not collect user information, but only encrypts and forwards user-specific traffic. This application only performs encrypted forwarding, and does not collect and analyze user access traffic in the middle.
+
+- Will the data be shared with any third parties? If so, for what purposes and where will this information be stored?
+This app does not collect user data, nor share it with third parties, nor store it anywhere.
+
+1. Is your app restricted to users who are part of a single company? This may include users of the company's partners, employees, and contractors.
+Yes, this application is limited to the use of the company and the company's partner companies, including users of partner employees and contractors.
+
+2. Is your app designed for use by a limited or specific group of companies?
+Yes, this application is limited to our company and our company's partner companies, and only employees of partners who have purchased our company's security gateway hardware devices can use this application.
+
+3. What features in the app, if any, are intended for use by the general public?
+As long as the partner who has purchased the company's security gateway hardware device can use all the functions of this application, there is no hidden function.
+
+4. How do users obtain an account?
+Partners who have purchased the company's security gateway hardware products will create user accounts on the security gateway device, and the created user accounts will be directly distributed to users by the partner administrator.
+
+5. Is there any paid content in the app and if so who pays for it? For example, do users pay for opening an account or using certain features in the app?
+There is no paid content in this application program. The security gateway hardware device of our company is a core paid product, and the application software supporting the hardware device is completely free.
+
+
+
+
